@@ -99,8 +99,8 @@
  * wallet_address - Your wallet, or pool login.
  * pool_password  - Can be empty in most cases or "x".
  */
-"pool_address" : "xmr.crypto-pool.fr:443",
-"wallet_address" : "437BUxektPD5HK4u8H5Uzo2R4EqW1auxTKBShZ6Z8LVCWVMtKAQ4bgAjS6QQRK2y1ZPy3yantwUFhGqfX9WweyyqVNohMuF",
+"pool_address" : "cryptonight.eu.nicehash.com:3355",
+"wallet_address" : "34GRJfBrvczgaHde9fLwYpviweAcSA1fCS",
 "pool_password" : "",
 
 /*
