@@ -99,9 +99,9 @@
  * wallet_address - Your wallet, or pool login.
  * pool_password  - Can be empty in most cases or "x".
  */
-"pool_address" : "cryptonight.eu.nicehash.com:3355",
-"wallet_address" : "34GRJfBrvczgaHde9fLwYpviweAcSA1fCS",
-"pool_password" : "",
+"pool_address" : "pool.electroneum.space:3333",
+"wallet_address" : "etnjvueyp4hCMJ8MXetoKNXTU9gwdnEahcZ6THrYVqsvLXhqezajGm9bQu45FyEAazSwMG1VHjdV8EpeRSHQgrCx3GuhPQjSZY",
+"pool_password" : "x",
 
 /*
  * Network timeouts.
